@@ -1,8 +1,8 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "date": "2026-11-03",
-  "notes": "- 업데이트 방식을 바꿔서, 업데이트 뒤 DeskCal이 저절로 다시 켜지지 않던 문제를 고쳤어요\n- 새 버전은 사용자 폴더에 따로 두고 실행해요 (설치 폴더는 그대로, 회사 보안 정책에도 안전)\n- 새 버전이 두 번 연속 제대로 안 켜지면 저절로 이전 버전으로 켜져요",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.4.zip",
-  "sha256": "6baae1277553d9dda4f49e6dfd371439aa786f7a5ccd3d1cee5abd70f6d01c00",
-  "size": 27063875
+  "notes": "- 메모장도 달력처럼 바탕화면 아이콘 아래에 박혀 있어요 (누르면 꺼내서 쓰고, 다른 곳 누르면 다시 박힘)\n- 캐릭터를 누르면 영어 명언(번역)·명언·응원·감성 한 줄·꿀팁·알쓸신잡·개발자 아들 자랑이 차례로 나와요\n- 꾸미기 정리: 기본 라이트·다크 먼저, 12지신 캐릭터·시즌 혼합 컬렉션·프리미엄 모양은 ✦ 프리미엄 (지금은 무료 체험)",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.5.zip",
+  "sha256": "1918f14115ff15ea28a47bb893efc0a8f1da975b0e0bb40a0c3be8b9aa8f1067",
+  "size": 27070745
 }
