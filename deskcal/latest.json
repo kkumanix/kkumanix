@@ -1,8 +1,8 @@
 {
-  "version": "1.9.17",
+  "version": "1.9.18",
   "date": "2026-11-03",
-  "notes": "- 네이버 캘린더 연결 방식을 네이버 전용으로 바꿨어요 (500 오류 대응)",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.17.zip",
-  "sha256": "a95cc9858344ce19eee677ad9bb1d6b104f6d587fb828930c491ec5349528c55",
-  "size": 27082052
+  "notes": "- 네이버 캘린더 접속을 브라우저와 같은 네트워크로 (회사 프록시 대응)\n- 연결 실패 시 실제 원인 표시",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.18.zip",
+  "sha256": "a4800c7ebe30ea6b472df2b5a32c7e1058a39a789cc5b3d158bea8dfc0dbece4",
+  "size": 27082293
 }
