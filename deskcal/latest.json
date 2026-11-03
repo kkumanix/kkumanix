@@ -1,8 +1,8 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "date": "2026-11-03",
-  "notes": "- 달력에서 끈 목록·패널, 위젯 크기, 보기 방식이 설정 창 저장이나 재시작 뒤에도 그대로 유지돼요\n- 컴퓨터를 켜면 DeskCal이 항상 자동으로 실행돼요 (작업 관리자에서 꺼져 있던 것도 다시 켬)",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.2.zip",
-  "sha256": "b47e2f1e9675e52564584650682f348a730764aa53889e7b3d05913d47fc45de",
-  "size": 27061870
+  "notes": "- 날짜 옆 응원 친구를 크게 (설정 > 캐릭터에서 크기 조절)\n- 바탕화면에 붙어 있을 때 아이콘·날짜·달력·투명도 막대 어디를 눌러도 편집 모드로 들어가요\n- 바탕화면에 붙어 있을 때도 아이콘에 마우스를 올리면 설명이 나와요\n- 도구 아이콘 정리: 위에는 보기·만들기·동기화·설정, 미니 달력·잠금·단축키는 맨 아래로",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.3.zip",
+  "sha256": "14349faafc13bb1e66a6d0b12ca0fed87de5047a18f80863bb949a6a9dbe1b76",
+  "size": 27062770
 }
