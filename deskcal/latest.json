@@ -1,8 +1,8 @@
 {
-  "version": "1.9.13",
+  "version": "1.9.14",
   "date": "2026-11-03",
-  "notes": "- 일정 등록할 때 Outlook·Google 캘린더에도 함께 보내기 (계정 연결 없이, 열린 창에서 저장만)\n- AI 일정 등록 창과 일정 창 모두에서 사용",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.13.zip",
-  "sha256": "1dbc5991defcbcafbe5b1e135d292a9f40b54fa2e4d9910a87aae5d5554f2bcc",
-  "size": 27077439
+  "notes": "- '함께 보내기'에 네이버 추가 (연결된 네이버 캘린더에 바로 저장)\n- 네이버·Outlook·Google 체크를 기억해서 다음에도 그대로",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.14.zip",
+  "sha256": "c859561d685243debf1f0d177bc0ae3f629d4c9c9c15144e61103c73259a9d82",
+  "size": 27078288
 }
