@@ -1,8 +1,8 @@
 {
-  "version": "1.9.15",
+  "version": "1.9.16",
   "date": "2026-11-03",
-  "notes": "- 네이버 캘린더 '연결 확인' 버튼과 단계별 안내\n- 401 오류를 알기 쉽게 안내, 아이디의 @naver.com 자동 제거",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.15.zip",
-  "sha256": "ccb6a6d2446e2ebb7bdba2b7ea152fdbb665a87ce79c996113f242af60dd0b27",
-  "size": 27079744
+  "notes": "- 네이버 캘린더 'cannot find principalUrl' 오류 대응 (정해진 캘린더 주소로 바로 접속)\n- 연결이 안 되면 '연결 확인'에 진단 내용 표시",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.16.zip",
+  "sha256": "8cb7f522ea35a5cca42f3f0057497dbca955814ac4f08c379ffefce89f3766d2",
+  "size": 27080689
 }
