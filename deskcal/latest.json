@@ -1,8 +1,8 @@
 {
-  "version": "1.9.14",
+  "version": "1.9.15",
   "date": "2026-11-03",
-  "notes": "- '함께 보내기'에 네이버 추가 (연결된 네이버 캘린더에 바로 저장)\n- 네이버·Outlook·Google 체크를 기억해서 다음에도 그대로",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.14.zip",
-  "sha256": "c859561d685243debf1f0d177bc0ae3f629d4c9c9c15144e61103c73259a9d82",
-  "size": 27078288
+  "notes": "- 네이버 캘린더 '연결 확인' 버튼과 단계별 안내\n- 401 오류를 알기 쉽게 안내, 아이디의 @naver.com 자동 제거",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.15.zip",
+  "sha256": "ccb6a6d2446e2ebb7bdba2b7ea152fdbb665a87ce79c996113f242af60dd0b27",
+  "size": 27079744
 }
