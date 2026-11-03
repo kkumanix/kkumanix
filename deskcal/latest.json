@@ -1,8 +1,8 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "date": "2026-11-03",
-  "notes": "- 날짜 옆 응원 친구를 크게 (설정 > 캐릭터에서 크기 조절)\n- 바탕화면에 붙어 있을 때 아이콘·날짜·달력·투명도 막대 어디를 눌러도 편집 모드로 들어가요\n- 바탕화면에 붙어 있을 때도 아이콘에 마우스를 올리면 설명이 나와요\n- 도구 아이콘 정리: 위에는 보기·만들기·동기화·설정, 미니 달력·잠금·단축키는 맨 아래로",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.3.zip",
-  "sha256": "14349faafc13bb1e66a6d0b12ca0fed87de5047a18f80863bb949a6a9dbe1b76",
-  "size": 27062770
+  "notes": "- 업데이트 방식을 바꿔서, 업데이트 뒤 DeskCal이 저절로 다시 켜지지 않던 문제를 고쳤어요\n- 새 버전은 사용자 폴더에 따로 두고 실행해요 (설치 폴더는 그대로, 회사 보안 정책에도 안전)\n- 새 버전이 두 번 연속 제대로 안 켜지면 저절로 이전 버전으로 켜져요",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.4.zip",
+  "sha256": "6baae1277553d9dda4f49e6dfd371439aa786f7a5ccd3d1cee5abd70f6d01c00",
+  "size": 27063875
 }
