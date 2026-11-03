@@ -1,8 +1,8 @@
 {
-  "version": "1.9.10",
+  "version": "1.9.11",
   "date": "2026-11-03",
-  "notes": "- 캐릭터에 마우스를 올리면 동물 이름 대신 '눌러 보세요'만 나와요 (다른 동물 이름이 나오던 문제 수정)\n- 캐릭터 말풍선에 분류 이름 없이 글만, AI 예시 무작위, 다크 모드 스위치",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.10.zip",
-  "sha256": "c9e8cf846c7f33d2b073d1b96e91c6291ed69a50fbf65d1e8706eeb81c6da7f0",
-  "size": 27073743
+  "notes": "- 기본 테마 라이트·다크 각 12가지 (버터 크림·민트 소다·와인·별밤 추가)\n- ✦ 프리미엄 모양 10가지 (노트·우표·캔디 추가)\n- 캐릭터 설명은 '눌러 보세요'로",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.11.zip",
+  "sha256": "67027fef229707e4ec5039d3c45e435662b865930137e0168c2da0cf970931e7",
+  "size": 27074803
 }
