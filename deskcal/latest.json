@@ -1,8 +1,8 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "date": "2026-11-03",
-  "notes": "- 메모장도 달력처럼 바탕화면 아이콘 아래에 박혀 있어요 (누르면 꺼내서 쓰고, 다른 곳 누르면 다시 박힘)\n- 캐릭터를 누르면 영어 명언(번역)·명언·응원·감성 한 줄·꿀팁·알쓸신잡·개발자 아들 자랑이 차례로 나와요\n- 꾸미기 정리: 기본 라이트·다크 먼저, 12지신 캐릭터·시즌 혼합 컬렉션·프리미엄 모양은 ✦ 프리미엄 (지금은 무료 체험)",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.5.zip",
-  "sha256": "1918f14115ff15ea28a47bb893efc0a8f1da975b0e0bb40a0c3be8b9aa8f1067",
-  "size": 27070745
+  "notes": "- 바탕화면에 붙어 있을 때 첫 번째 클릭은 편집 모드로 꺼내기만 하고, 한 번 더 누르면 일정·날짜 창이 열려요\n- 메모장이 바탕화면 아이콘 아래에 박혀 있어요\n- 캐릭터 말풍선 7가지 (영어 명언·명언·응원·감성·꿀팁·알쓸신잡·아들 자랑)\n- 꾸미기: 기본 먼저, ✦ 프리미엄(지금은 무료 체험)",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.6.zip",
+  "sha256": "3078717deb3595bffc4fe00a69892e5ace0f62e58c69967342cc16d1bcb2319a",
+  "size": 27070436
 }
