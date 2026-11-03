@@ -1,0 +1,8 @@
+{
+  "version": "1.9.1",
+  "date": "2026-11-03",
+  "notes": "- 프로그램 안 업데이트 기능 확인용 첫 업데이트\n- 업데이트가 끝나면 'DeskCal 업데이트 완료' 알림이 떠요",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.1.zip",
+  "sha256": "8d08b104946ab850fa938f660ed7ad43aebdd8c36217ec3fddf531968da58236",
+  "size": 27061242
+}
