@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "date": "2026-11-03",
-  "notes": "- 프로그램 안 업데이트 기능 확인용 첫 업데이트\n- 업데이트가 끝나면 'DeskCal 업데이트 완료' 알림이 떠요",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.1.zip",
-  "sha256": "8d08b104946ab850fa938f660ed7ad43aebdd8c36217ec3fddf531968da58236",
-  "size": 27061242
+  "notes": "- 달력에서 끈 목록·패널, 위젯 크기, 보기 방식이 설정 창 저장이나 재시작 뒤에도 그대로 유지돼요\n- 컴퓨터를 켜면 DeskCal이 항상 자동으로 실행돼요 (작업 관리자에서 꺼져 있던 것도 다시 켬)",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.2.zip",
+  "sha256": "b47e2f1e9675e52564584650682f348a730764aa53889e7b3d05913d47fc45de",
+  "size": 27061870
 }
