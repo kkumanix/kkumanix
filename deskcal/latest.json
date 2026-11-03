@@ -1,8 +1,8 @@
 {
-  "version": "1.9.11",
+  "version": "1.9.12",
   "date": "2026-11-03",
-  "notes": "- 기본 테마 라이트·다크 각 12가지 (버터 크림·민트 소다·와인·별밤 추가)\n- ✦ 프리미엄 모양 10가지 (노트·우표·캔디 추가)\n- 캐릭터 설명은 '눌러 보세요'로",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.11.zip",
-  "sha256": "67027fef229707e4ec5039d3c45e435662b865930137e0168c2da0cf970931e7",
-  "size": 27074803
+  "notes": "- AI로 일정 등록할 때 일정마다 알림 고르기 (1달·1주·1일·1시간·30분·10분 전, 여러 개 / 기본 / 없음)\n- '알림 한 번에'로 모든 일정에 같은 알림",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.12.zip",
+  "sha256": "8356fdaa51c604b7d5d1ba33772951c38985c092520dc6d6a768b60f3473fd0f",
+  "size": 27075722
 }
