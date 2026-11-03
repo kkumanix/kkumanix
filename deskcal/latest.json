@@ -1,8 +1,8 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "date": "2026-11-03",
-  "notes": "- 바탕화면에 붙어 있을 때 첫 번째 클릭은 편집 모드로 꺼내기만 하고, 한 번 더 누르면 일정·날짜 창이 열려요\n- 메모장이 바탕화면 아이콘 아래에 박혀 있어요\n- 캐릭터 말풍선 7가지 (영어 명언·명언·응원·감성·꿀팁·알쓸신잡·아들 자랑)\n- 꾸미기: 기본 먼저, ✦ 프리미엄(지금은 무료 체험)",
-  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.6.zip",
-  "sha256": "3078717deb3595bffc4fe00a69892e5ace0f62e58c69967342cc16d1bcb2319a",
-  "size": 27070436
+  "notes": "- 응원 친구: 저절로 말 걸기(간격 선택), 말풍선 보이는 시간(초) 설정\n- 일정별 알림: 달·주·일·시간·분 전을 체크해서 여러 개 동시에\n- 알림 창의 다른 시간대는 맨 아래 작게, 달력 마우스 설명에서는 빼기",
+  "url": "https://raw.githubusercontent.com/kkumanix/kkumanix/main/deskcal/DeskCal-app-1.9.7.zip",
+  "sha256": "27ca8b732a63e79f248a10d66779c05988ab39c6a52b7ce8133413b2fa53a913",
+  "size": 27071496
 }
