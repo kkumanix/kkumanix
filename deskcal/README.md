@@ -1,6 +1,6 @@
-# DeskCal 업데이트 배포 폴더
+# DeskCal → Total Calendar
 
-바탕화면 캘린더 **DeskCal**이 프로그램 안 '업데이트' 기능으로 새 버전을 확인하는 곳입니다.
+이 폴더는 예전 버전(1.9.18 이하) 앱이 업데이트를 확인하는 위치입니다.
+앱 이름이 **Total Calendar**로 바뀌면서 업데이트 파일은 새 저장소로 옮겼습니다: https://github.com/kkumanix/total-calendar
 
-- `latest.json` : 최신 버전 정보 (버전, 바뀐 점, 내려받을 주소, SHA-256)
-- 실제 파일은 이 저장소의 **Releases** (`deskcal-v*` 태그)에 있습니다.
+`latest.json`은 예전 앱도 새 버전을 받을 수 있도록 새 저장소의 파일을 가리킵니다.
